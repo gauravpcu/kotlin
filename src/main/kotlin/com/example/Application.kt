@@ -20,6 +20,8 @@ fun Application.module() {
 
 
 /*
+
+some inputs
 * curl http://localhost:8080/api/user --include --header "Content-Type: application/json" --request "POST" --data '[{
 
     	"firstName": "Test",
